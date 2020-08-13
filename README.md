@@ -1,1 +1,1 @@
-# vienna_graetzl_project
+# Vienna Graetzl Project
