@@ -1,1 +1,1 @@
-# Innere Stadt <img src="./1.svg" alt="W" width="10"/>
+# Innere Stadt <img src="./1.svg" alt="W" width="20"/>
