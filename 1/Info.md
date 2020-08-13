@@ -1,1 +1,1 @@
-# Innere Stadt ![Image](1.svg=50x50)
+# Innere Stadt ![Image](1.svg =50x50)
