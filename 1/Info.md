@@ -1,1 +1,1 @@
-# Innere Stadt ![Image](./1.svg =50x50)
+# Innere Stadt <img src="./1.svg" alt="W" width="100"/>
