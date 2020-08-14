@@ -10,6 +10,7 @@ Biketour auf die "höchsten Berge Wiens"
 
 ### Gewählte Berge:
 | Berg               | Höhe (Wiener Null) |
+
 |--------------------|--------------------|
 | Konstantinhügel    | 13 m               |
 | Laaer Berg         | 99 m               |
@@ -17,7 +18,7 @@ Biketour auf die "höchsten Berge Wiens"
 | Hornauskogel       | 343 m              |
 | Kaltbründlberg     | 351 m              |
 | Dreihufeisenberg   | 358 m              |
-| Unbenannte Anhöhe[^1]  | 361 m              |
+| Unbenannte Anhöhe <sup>  | 361 m              |
 | Schutzengelberg    | 351 m              |
 | Rosskopf           | 350 m              |
 | Hermannskogel      | 385 m              |
