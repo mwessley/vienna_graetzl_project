@@ -29,5 +29,5 @@
 
 ## Themetours
 
-* [Wasserparty (Donauregulierung & Häfen)](./water/Info.md/)
+* [Poolparty (Donauregulierung & Häfen)](./wasser/Info.md/)
 * [Summits of Vienna](./summits/Info.md/)
