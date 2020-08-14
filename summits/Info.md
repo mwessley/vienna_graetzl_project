@@ -9,8 +9,9 @@ Biketour auf die "höchsten Berge Wiens"
 <img src="route.png" alt="W" width="400"/>
 
 ### Gewählte Berge:
-| Berg               | Höhe (Wiener Null) |
 
+|--------------------|--------------------|
+| Berg               | Höhe (Wiener Null) |
 |--------------------|--------------------|
 | Konstantinhügel    | 13 m               |
 | Laaer Berg         | 99 m               |
