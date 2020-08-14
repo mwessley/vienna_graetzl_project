@@ -9,14 +9,18 @@ Biketour auf die "höchsten Berge Wiens"
 <img src="route.png" alt="W" width="400"/>
 
 ### Gewählte Berge:
-1. Konstantinhügel (Start)
-2. Laaerberg
-3. Wienerberg
-4. Hornauskogel
-5. Kaltbründlberg
-6. Dreihufeisenberg
-7. Unbenannte Anhöhe (im Lainzer Tiergarten an der Stadtgrenze zu Purkersdorf)
-8. Schutzengelberg
-9. Rosskopf
-10. Hermannskogel
-11. Vogelsangberg
+| Berg               | Höhe (Wiener Null) |
+|--------------------|--------------------|
+| Konstantinhügel    | 13 m               |
+| Laaer Berg         | 99 m               |
+| Wienerberg         | 88 m               |
+| Hornauskogel       | 343 m              |
+| Kaltbründlberg     | 351 m              |
+| Dreihufeisenberg   | 358 m              |
+| Unbenannte Anhöhe[^1]  | 361 m              |
+| Schutzengelberg    | 351 m              |
+| Rosskopf           | 350 m              |
+| Hermannskogel      | 385 m              |
+| Vogelsangberg      | 359 m              |
+
+[^1]: im Lainzer Tiergarten an der Stadtgrenze zu Purkersdorf
