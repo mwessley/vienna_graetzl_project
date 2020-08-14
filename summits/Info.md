@@ -10,7 +10,7 @@ Biketour auf die "höchsten Berge Wiens"
 
 ### Gewählte Berge:
 
-|--------------------|--------------------|
+
 | Berg               | Höhe (Wiener Null) |
 |--------------------|--------------------|
 | Konstantinhügel    | 13 m               |
